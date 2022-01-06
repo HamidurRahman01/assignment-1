@@ -4,8 +4,10 @@ body{
     margin:70px 80px 0px;
 }
 h1{
-    border-left: 3px solid red;
     font-size: 30px;
+}
+.headding-one{
+    border-left: 3px solid red;
 }
 .mission-color{
     color: orange;
@@ -35,16 +37,17 @@ h1{
     margin-bottom: 50px;
 }
 .sectiontwo-heading{
+    color: blueviolet;
     text-align: center;
 }
 .illustrator{
     width: 30%;
     margin-left: 3%;
     margin-right: 3%;
-    padding-left: 5px;
+    padding-left: 10px;
     padding-right: 5px;
     border-radius: 10px;
-    background-color:seashell;
+    background-color:blanchedalmond;
     box-shadow: 10px 10px 15px grey;
 
 }
@@ -57,8 +60,18 @@ h1{
 }
 .develope-without{
     display: flex;
+    margin-bottom: 50px;
     background-image: url(mission-2022-main/images/shapes/shape-1.png);
     background-repeat: no-repeat;
+}
+.some-project img{
+    width:350px ;
+    height: 400px;
+    padding-left: 80px;
+}
+footer{
+    text-align: center;
+    background-color: slateblue;
 }
 
 
