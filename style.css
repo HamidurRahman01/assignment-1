@@ -1,0 +1,64 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin:70px 80px 0px;
+}
+h1{
+    border-left: 3px solid red;
+    font-size: 30px;
+}
+.mission-color{
+    color: orange;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: yellowgreen;
+}
+.stay-mission{
+    width: 40%;
+}
+.stay-mission img{
+     width:350px ;
+     height: 400px;
+     padding-left: 30px;
+}
+.top-order{
+    display: flex;
+}
+.small-tag{
+    display: block;
+    margin-top: 40px;
+}
+.sectiontwo{
+    margin-bottom: 50px;
+}
+.sectiontwo-heading{
+    text-align: center;
+}
+.illustrator{
+    width: 30%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 10px;
+    background-color:seashell;
+    box-shadow: 10px 10px 15px grey;
+
+}
+.illustrator img{
+    height: 100px;
+    width: 80px;
+}
+.develop{
+    padding-left: 10%;
+}
+.develope-without{
+    display: flex;
+    background-image: url(mission-2022-main/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+}
+
+
