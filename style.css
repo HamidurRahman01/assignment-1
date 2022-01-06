@@ -37,8 +37,8 @@ h1{
     margin-bottom: 50px;
 }
 .sectiontwo-heading{
-    color: blueviolet;
     text-align: center;
+    color: coral;
 }
 .illustrator{
     width: 30%;
@@ -61,8 +61,6 @@ h1{
 .develope-without{
     display: flex;
     margin-bottom: 50px;
-    background-image: url(mission-2022-main/images/shapes/shape-1.png);
-    background-repeat: no-repeat;
 }
 .some-project img{
     width:350px ;
@@ -73,5 +71,3 @@ footer{
     text-align: center;
     background-color: slateblue;
 }
-
-
